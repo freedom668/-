@@ -1,0 +1,17 @@
+2026-04-06 11:41:19,461 - agent - INFO - logger_handler.py:43 - 信息日子
+2026-04-06 11:41:19,461 - agent - ERROR - logger_handler.py:44 - cuowu
+2026-04-06 16:05:39,337 - agent - ERROR - prompt_loader.py:9 - [load_system_prompt]在yaml配置项中没有main_prompt_path配置项
+2026-04-06 16:06:36,420 - agent - ERROR - prompt_loader.py:9 - [load_system_prompt]在yaml配置项中没有main_prompt_path配置项
+2026-04-06 16:08:39,086 - agent - ERROR - prompt_loader.py:9 - [load_system_prompt]在yaml配置项中没有main_prompt_path配置项
+2026-04-06 19:40:00,844 - agent - INFO - vector_store.py:77 - [加载知识库]D:\PycharmProjects\pythonProject\大模型RAG与Agent智能体\Agent\data\扫地机器人100问.pdf内容加载成功
+2026-04-06 19:40:04,601 - agent - INFO - vector_store.py:77 - [加载知识库]D:\PycharmProjects\pythonProject\大模型RAG与Agent智能体\Agent\data\扫地机器人100问2.txt内容加载成功
+2026-04-06 19:40:09,000 - agent - INFO - vector_store.py:77 - [加载知识库]D:\PycharmProjects\pythonProject\大模型RAG与Agent智能体\Agent\data\扫拖一体机器人100问.txt内容加载成功
+2026-04-06 19:40:18,261 - agent - INFO - vector_store.py:77 - [加载知识库]D:\PycharmProjects\pythonProject\大模型RAG与Agent智能体\Agent\data\故障排除.txt内容加载成功
+2026-04-06 19:40:24,153 - agent - INFO - vector_store.py:77 - [加载知识库]D:\PycharmProjects\pythonProject\大模型RAG与Agent智能体\Agent\data\维护保养.txt内容加载成功
+2026-04-06 19:40:29,123 - agent - INFO - vector_store.py:77 - [加载知识库]D:\PycharmProjects\pythonProject\大模型RAG与Agent智能体\Agent\data\选购指南.txt内容加载成功
+2026-04-06 19:41:37,117 - agent - INFO - vector_store.py:61 - [加载知识库]D:\PycharmProjects\pythonProject\大模型RAG与Agent智能体\Agent\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-04-06 19:41:37,118 - agent - INFO - vector_store.py:61 - [加载知识库]D:\PycharmProjects\pythonProject\大模型RAG与Agent智能体\Agent\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-04-06 19:41:37,118 - agent - INFO - vector_store.py:61 - [加载知识库]D:\PycharmProjects\pythonProject\大模型RAG与Agent智能体\Agent\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-04-06 19:41:37,119 - agent - INFO - vector_store.py:61 - [加载知识库]D:\PycharmProjects\pythonProject\大模型RAG与Agent智能体\Agent\data\故障排除.txt内容已经存在知识库内，跳过
+2026-04-06 19:41:37,119 - agent - INFO - vector_store.py:61 - [加载知识库]D:\PycharmProjects\pythonProject\大模型RAG与Agent智能体\Agent\data\维护保养.txt内容已经存在知识库内，跳过
+2026-04-06 19:41:37,120 - agent - INFO - vector_store.py:61 - [加载知识库]D:\PycharmProjects\pythonProject\大模型RAG与Agent智能体\Agent\data\选购指南.txt内容已经存在知识库内，跳过
